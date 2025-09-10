@@ -4,7 +4,7 @@ A framework for replacing the music in Slay the Spire.
 
 # Quick Start
 
-Setting up Remix the Spire as adding it as a dependency to your pom.xml file.
+Setting up Remix the Spire as subscribing to it in the Steam Workshop and adding it as a dependency to your pom.xml file.
 
 ```xml
 <dependency>
