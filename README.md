@@ -1,4 +1,4 @@
-# Remix The Spire
+# Remix The Spire (Beta)
 
 A framework for replacing the music in Slay the Spire.
 
