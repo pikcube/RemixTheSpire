@@ -2,6 +2,8 @@
 
 A framework for replacing the music in Slay the Spire.
 
+[Steam Workshop Link](https://steamcommunity.com/sharedfiles/filedetails/?id=3565867760)
+
 # Quick Start
 
 Setting up Remix the Spire as subscribing to it in the Steam Workshop and adding it as a dependency to your pom.xml file.
